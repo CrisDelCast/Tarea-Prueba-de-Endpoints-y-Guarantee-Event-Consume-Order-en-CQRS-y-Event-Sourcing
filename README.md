@@ -18,8 +18,15 @@ http://localhost:5000/api/v1/depositFunds/2c25f6d6-6458-469d-8177-cf28a280e5e8
 }
 ![image](https://github.com/user-attachments/assets/78d71bdc-1bbc-44b3-8e99-78d888e0917f)
 ## WithdrawFundsController: Retirar fondos.
+http://localhost:5000/api/v1/withdrawFunds/2c25f6d6-6458-469d-8177-cf28a280e5e8
+PutMapping
+{
+  "amount": 10.00 // O cualquier balance inicial
+}
 ![image](https://github.com/user-attachments/assets/90815f6b-e1bc-4118-b646-93c6e593e6a3)
 ## CloseAccountController: Cerrar la cuenta.
+http://localhost:5000/api/v1/closeBankAccount/2c25f6d6-6458-469d-8177-cf28a280e5e8
+@DeleteMapping
 ![image](https://github.com/user-attachments/assets/8d85ba78-783a-4e7c-bbc4-15c78c95072e)
 ## AccountLookupController: Consultar cuentas.
 ### a. ![image](https://github.com/user-attachments/assets/334e8e73-ac5e-4512-b762-3443b14c0261)
