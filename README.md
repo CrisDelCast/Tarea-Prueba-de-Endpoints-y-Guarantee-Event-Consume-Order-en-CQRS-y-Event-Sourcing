@@ -55,6 +55,10 @@ http://localhost:5001/api/v1/bankAccountLookup/withBalance/GREATER_THAN/200
 http://localhost:5000/api/v1/restoreReadDb
 ![image](https://github.com/user-attachments/assets/0ef7c51d-0d53-44b5-80f3-efc27c65f979)
 
+___________________________________________________________________________________________________________
+# PARTE 2: : Guarantee Event Consume Orde
+
+
 
 
 
